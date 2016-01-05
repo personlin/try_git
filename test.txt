@@ -1,9 +1,5 @@
 this is a test.
 add by bowmei.
-<<<<<<< HEAD
 add by bowmei again.
 add by bowmei again and again.
-=======
-
 add by person.
->>>>>>> test1
